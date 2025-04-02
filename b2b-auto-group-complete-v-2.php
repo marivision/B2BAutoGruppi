@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Auto Assegnazione Gruppi B2B - Versione Semplificata
-Plugin URI: https://pcusato.net
-Description: Assegna automaticamente i gruppi B2B in base al dominio email - versione semplificata
+Plugin URI: https://marivision.it
+Description: Assegna automaticamente i gruppi B2B in base al dominio email
 Version: 2.0
 Author: Alessandro Mari
 Text Domain: b2b-auto-group
